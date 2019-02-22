@@ -1,0 +1,25 @@
+.home {
+  .section_1 {
+    height: 400px;
+  }
+  .container {
+    height: 100%;
+    width: 100%;
+  }
+
+  .section_1_left {
+    height: 400px;
+    padding-top: 100px;
+  }
+
+  .section_1_right {
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    img {
+      width: 450px;
+    }
+  }
+}
